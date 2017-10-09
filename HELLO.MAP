@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00008H 00009H _TEXT              CODE
+ 0000AH 00017H 0000EH _DATA              DATA
+ 00018H 00018H 00000H _BSS               BSS
+
+Undefined symbol '_PRINTF' in module HELLO.C
+Program entry point at 0000:0000
+Warning: no stack
+
